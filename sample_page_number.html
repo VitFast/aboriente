@@ -11,42 +11,45 @@
     <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
 
-    <title>Auswärtiges Amt, 1871-1914. DH Edition (Demonstration)</title>
+    <title>Auswärtiges Amt, Akten der Handelspolitischen Abteilung, 1871-1914. DH Edition (Demonstrationsmodell)</title>
     <link href="style.css" rel="stylesheet">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Auswärtiges Amt, 1871-1914. DH Edition (Demonstration)</a>
+      <a class="navbar-brand" href="#">Auswärtiges Amt, Akten der Handelspolitischen Abteilung, 1871-1914. DH Edition </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
-          <a class="nav-link" href="index.html">Home</a>
+          <a class="nav-link" href="index.html">Startseite</a>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Pages
+              Aktenseite
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <!-- change the href and the text to exactly match your page number -->
-              <a class="dropdown-item" href="sample_page_number.html">sample page number</a>
+              <a class="dropdown-item" onclick="nextMove(1)">S. 1</a>
+               <a class="dropdown-item" onclick="nextMove(2)">S. 2</a>
+                <a class="dropdown-item" onclick="nextMove(3)">S. 3</a>
             </div>
           </li>
         </ul>
       </div>
     </nav>
     <div class="container-fluid">
-      <h1>Grundsätze über die geschäftliche Behandlung von Gesuchen um Gestattung der Besichtigung deutscher Verkehrsanstalten durch fremde Staatsangehörige</h1>
-      
+      <h1>Aktenquelle:</h1>
+      <h>Titel: Grundsätze über die geschäftliche Behandlung von Gesuchen um Gestattung der Besichtigung deutscher Verkehrsanstalten durch fremde Staatsangehörige</h>
+      <br><h>Signatur: R 901/16612</h>
       <!-- change the content of this h2 to exactly match your page number -->
   
       <h2 id='folio'>sample_page_number</h2>
       <div id="stats"></div>
       <div class="form-group">
         <select class="form-control" id="sel-version" onChange="selectVersion(event)">
-          <option value="all">All text</option>
-          <option value="final">Final text (only additions)</option>
-          <option value="first">First draft (no edits)</option>
+          <option value="all">Vollständiger Text</option>
+          <option value="final">Überlieferte Fassung</option>
+          <option value="first">Ursprungsfassung (ohne Korrekturen und Anmerkungen)</option>
         </select>
       </div>
       <div class="row">

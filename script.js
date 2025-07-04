@@ -166,3 +166,15 @@ function setUpAddDel() {
 
   
   }
+
+    function nextMove(x) {
+
+    currentImage = x;
+    document.getElementById("disp_document").src = `sample_page_${currentImage}.jpg`;
+ 
+   folio_xml = 'sample_page_' + currentImage + '.xml';
+ documentLoader();
+  statsLoader();
+
+
+  }

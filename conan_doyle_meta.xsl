@@ -11,19 +11,21 @@
     <xsl:template match="tei:TEI">
                      <div class="row">
                          <div class="col">
-                             <h4>About the manuscript page:</h4>
+                             <h4>Abbildung:</h4>
                              <xsl:value-of select="//tei:sourceDesc"/>
                              <xsl:value-of select="//tei:licence"/> <!-- You can change the way the metadata is visualised as well-->
                          </div>
                          <div class="col">
                             <ul> 
-                                <li>Total number of modifications: 
+                                <li>Berücksichtigte Modifikationen: 
                                     <xsl:value-of select="count(//tei:del|//tei:add)" /> <!-- Counts all the add and del elements, and puts it in a list item -->
                                 </li>
-                                <li>Number of additions: 
+                                <li>Hinzufügungen: 
+                                     <xsl:value-of select="count(//tei:add)" />
                                     <!-- count the additions only -->
                                 </li>
-                                <li>Number of deletions: 
+                                <li>Streichungen: 
+                                     <xsl:value-of select="count(//tei:del|//tei:del)" />
                                     <!-- count the deletions only -->
                                 </li>
                                 <!-- add other list items in which you count things, such as the supralinear additions only, or additions made with pencil -->

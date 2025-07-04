@@ -4,7 +4,7 @@
          <titleStmt><title type="main">R 901/16612</title><author>Auswärtiges Amt</author></titleStmt>
          <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
          <sourceDesc>
-            <bibl><title type="main">Der Minister der öffentlichen Arbeiten an den Herrn Minister der auswärtigen Angelegenheiten, 10. Novermber 1906</title><author></author><respStmt><resp></resp><name></name></respStmt><idno type="Transkribus"></idno></bibl>
+            <bibl><title type="main">Vorderseite der Akte mit Provenienzbezeichnung und Signaturen</title><author></author><respStmt><resp></resp><name></name></respStmt><idno type="Transkribus"></idno></bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -71,7 +71,7 @@
                <l facs="#facs_40_tr_1_tl_6" n="N006">Grundsätze über die geschäftliche Behandlung</l>
                <l facs="#facs_40_tr_1_tl_7" n="N001"><speech continued="true">von Gesuchen um Gestattung der Besichtigung deutscher Verkehrsanstalten (Eisenbahn, Post und Telegraphenanlagen) durch fremde Staatsangehörige.</speech></l></p>
                
-               <l facs="#facs_40_l_1533" n="N001"><p>Band_______</p>
+               <l facs="#facs_40_l_1533" n="N001"><p>Band</p>
                vom <del><hi style="text-decoration: line-through;">Jahre</hi></del> <add place="supralinear" facs="#facs_40_tr_1_tl_13" n="N002">Januar
                
                </add><span facs="#facs_40_l_1534" n="N003">  1895</span></l>
@@ -80,10 +80,13 @@
                <l facs="#facs_40_tr_1_tl_4" n="N004"><p>bis Mai 1914</p> </l>
 
                            
+
                </div>
 
                <div>Verkehrswesen<p>
-               Nr. 5 adh:II</p></div>
+               Nr. 5 adh:II</p>
+               <add place="supralinear" facs="#facs_40_tr_1_tl_13" n="N002">Aktensignatur (mit Bleistift): 16612</add>
+               </div>
       </body>
    </text>
 </TEI>
