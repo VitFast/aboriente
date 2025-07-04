@@ -38,6 +38,14 @@
         </div>
         </div> 
     </xsl:template>
+
+       <xsl:template match="tei:sup">
+        <sup><xsl:apply-templates/></sup>
+    </xsl:template>
+
+       <xsl:template match="tei:lb">
+        <br/>
+    </xsl:template>
     
     <xsl:template match="tei:div">
         <xsl:apply-templates/>

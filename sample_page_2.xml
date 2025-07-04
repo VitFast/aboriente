@@ -1,284 +1,84 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-    <Metadata>
-        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.27.0:model_id=37758:lm=none:date=02_07_2025_11:43</Creator>
-        <Created>2025-07-02T11:15:21.968+02:00</Created>
-        <LastChange>2025-07-02T11:49:39.719+02:00</LastChange>
-    </Metadata>
-    <Page imageFilename="0011_11.jpg" imageWidth="1840" imageHeight="3984">
-        <ReadingOrder>
-            <OrderedGroup id="ro_1751459840954" caption="Regions reading order">
-                <RegionRefIndexed index="0" regionRef="tr_2"/>
-                <RegionRefIndexed index="1" regionRef="tr_1"/>
-            </OrderedGroup>
-        </ReadingOrder>
-        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
-            <Coords points="1663,0 1663,144 1720,144 1720,0"/>
-            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
-                <Coords points="1647,130 1704,136 1722,45 1665,39"/>
-                <Baseline points="1663,94 1691,86 1720,83"/>
-                <TextEquiv>
-                    <Unicode>&lt;filename&gt;11.jpg&lt;/filename&gt;</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
-        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
-            <Coords points="66,816 66,3231 1718,3231 1718,816"/>
-            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
-                <Coords points="322,865 349,858 366,868 382,857 424,868 463,858 471,865 532,862 530,780 516,783 493,766 414,774 402,765 346,801 339,794 321,799"/>
-                <Baseline points="330,858 355,856 381,855 407,855 433,856 458,856 484,856 510,858 536,860"/>
-                <TextEquiv>
-                    <Unicode>No 1823</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
-                <Coords points="865,893 929,913 1068,890 1124,926 1171,896 1423,907 1617,945 1614,858 1559,844 1384,860 1281,802 1073,837 863,807"/>
-                <Baseline points="874,880 911,878 948,879 985,881 1023,884 1060,888 1097,889 1135,888 1172,888 1209,884 1247,886 1284,887 1321,888 1358,890 1396,892 1433,893 1470,897 1508,901 1545,905 1582,907 1620,910"/>
-                <TextEquiv>
-                    <Unicode>Berlin, le 30 Septembre 1894</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
-                <Coords points="1174,954 1213,945 1224,954 1292,949 1307,962 1356,962 1439,946 1437,909 1426,907 1393,919 1356,905 1320,912 1301,902 1284,915 1265,899 1235,912 1220,899 1171,898"/>
-                <Baseline points="1182,934 1208,932 1234,933 1260,935 1286,938 1312,940 1338,940 1364,942 1390,942 1416,944 1442,946"/>
-                <TextEquiv>
-                    <Unicode>12 Octobre</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
-                <Coords points="353,1015 361,1016 382,1004 393,1004 407,993 416,1001 430,995 443,998 455,932 444,930 422,943 421,940 400,949 389,941 367,940"/>
-                <Baseline points="366,992 394,989 422,982 450,976"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
-                <Coords points="1115,1043 1124,1041 1151,1063 1167,1063 1171,1057 1178,1060 1185,1054 1193,1054 1185,987 1174,990 1162,984 1152,991 1152,995 1138,988 1127,998 1118,993 1109,995"/>
-                <Baseline points="1122,1028 1158,1031 1194,1036"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
-                <Coords points="691,1148 843,1063 930,1093 1143,1068 1512,1109 1539,1023 1409,1049 1307,1021 1167,1060 930,971 686,1001"/>
-                <Baseline points="698,1070 740,1061 782,1062 824,1065 866,1060 909,1060 951,1063 993,1066 1035,1066 1077,1065 1120,1068 1162,1071 1204,1074 1246,1077 1288,1078 1331,1080 1373,1080 1415,1080 1457,1079 1499,1080 1542,1080"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
-                <Coords points="153,1088 403,1084 466,1107 516,1084 618,1126 663,1107 658,973 611,996 486,988 432,1024 152,1018"/>
-                <Baseline points="162,1076 187,1074 212,1074 237,1074 262,1075 288,1076 313,1076 338,1076 363,1077 388,1078 414,1079 439,1080 464,1080 489,1080 514,1083 540,1084 565,1086 590,1089 615,1090 640,1086 666,1082"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
-                <Coords points="877,1152 985,1115 1287,1135 1342,1165 1479,1142 1545,1173 1675,1127 1673,1079 1412,1123 1362,1082 876,1074"/>
-                <Baseline points="886,1110 925,1113 965,1115 1004,1118 1044,1121 1084,1123 1123,1126 1163,1128 1202,1131 1242,1134 1282,1134 1321,1136 1361,1138 1400,1138 1440,1139 1480,1142 1519,1140 1559,1136 1598,1134 1638,1127 1678,1120"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
-                <Coords points="192,1156 294,1143 353,1152 424,1206 486,1182 536,1207 622,1188 665,1209 660,1140 533,1098 188,1093"/>
-                <Baseline points="200,1136 225,1136 251,1136 277,1137 303,1138 328,1138 354,1138 380,1140 406,1140 432,1141 457,1143 483,1147 509,1151 535,1155 560,1158 586,1161 612,1163 638,1168 664,1172"/>
-                <TextEquiv>
-                    <Unicode>Pr. 14 Oktober 1894</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
-                <Coords points="873,1187 1034,1173 1142,1226 1226,1187 1390,1187 1389,1159 1210,1165 1129,1131 1054,1140 984,1113 871,1148"/>
-                <Baseline points="880,1168 905,1166 931,1167 957,1168 982,1169 1008,1170 1034,1170 1059,1172 1085,1174 1111,1175 1137,1176 1162,1176 1188,1177 1214,1178 1239,1178 1265,1178 1291,1179 1316,1180 1342,1181 1368,1182 1394,1182"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
-                <Coords points="1418,1298 1467,1292 1495,1271 1547,1284 1576,1264 1584,1271 1600,1267 1603,1192 1581,1187 1556,1163 1543,1173 1515,1173 1492,1152 1475,1152 1465,1142 1446,1157 1426,1152"/>
-                <Baseline points="1430,1256 1458,1258 1487,1256 1516,1254 1544,1254 1573,1252 1602,1246"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
-                <Coords points="538,1293 1212,1299 1234,1295 1234,1237 1148,1246 1035,1173 962,1220 843,1235 536,1207"/>
-                <Baseline points="546,1270 580,1270 615,1273 649,1274 684,1275 719,1276 753,1276 788,1276 822,1276 857,1277 892,1278 926,1278 961,1278 995,1280 1030,1278 1065,1279 1099,1280 1134,1279 1168,1279 1203,1280 1238,1284"/>
-                <TextEquiv>
-                    <Unicode>Monsieur le Baron</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
-                <Coords points="1644,1590 1669,1592 1683,1584 1698,1592 1701,1512 1694,1511 1686,1515 1681,1511 1670,1512 1669,1507 1661,1504 1648,1506"/>
-                <Baseline points="1652,1574 1677,1574 1702,1572"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
-                <Coords points="657,1587 862,1618 998,1578 1192,1606 1306,1576 1562,1590 1562,1517 1276,1554 1074,1495 888,1509 801,1467 657,1498"/>
-                <Baseline points="666,1572 710,1576 755,1578 800,1578 845,1580 890,1580 935,1580 980,1580 1025,1580 1070,1578 1115,1578 1159,1578 1204,1578 1249,1578 1294,1578 1339,1578 1384,1580 1429,1580 1474,1578 1519,1578 1564,1574"/>
-                <TextEquiv>
-                    <Unicode>Pour faire suite à la note</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
-                <Coords points="441,1701 913,1687 1056,1739 1145,1692 1604,1687 1604,1634 1448,1625 441,1628"/>
-                <Baseline points="450,1684 507,1683 565,1682 623,1682 681,1684 739,1682 797,1682 855,1684 913,1682 971,1682 1029,1682 1086,1683 1144,1684 1202,1684 1260,1684 1318,1684 1376,1684 1434,1682 1492,1682 1550,1680 1608,1676"/>
-                <TextEquiv>
-                    <Unicode>de Mr. de Scharykow en date du</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
-                <Coords points="447,1795 666,1826 758,1786 1087,1780 1165,1819 1259,1780 1553,1783 1586,1725 1432,1751 1248,1714 1135,1750 888,1712 657,1759 449,1725"/>
-                <Baseline points="456,1780 512,1780 569,1782 625,1782 682,1784 739,1782 795,1781 852,1780 908,1779 965,1778 1022,1778 1078,1778 1135,1780 1191,1778 1248,1776 1305,1776 1361,1774 1418,1774 1474,1772 1531,1772 1588,1772"/>
-                <TextEquiv>
-                    <Unicode>b. Iuiw dr. NN°1026, j’ai l’honneur</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
-                <Coords points="447,1831 457,1830 466,1820 482,1825 524,1817 522,1784 510,1783 502,1789 493,1784 483,1784 471,1790 464,1787 455,1797 447,1797"/>
-                <Baseline points="456,1812 491,1811 526,1814"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
-                <Coords points="58,1836 88,1837 120,1820 158,1844 199,1848 241,1817 288,1812 308,1830 349,1808 350,1711 322,1715 297,1690 255,1686 185,1726 156,1723 125,1740 106,1726 59,1726"/>
-                <Baseline points="66,1816 92,1814 118,1814 144,1812 170,1812 196,1814 222,1811 248,1810 274,1810 300,1810 326,1811 352,1814"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
-                <Coords points="441,1887 974,1881 1102,1941 1226,1881 1612,1881 1614,1823 1557,1811 1049,1861 912,1809 747,1856 443,1833"/>
-                <Baseline points="450,1884 508,1880 566,1882 624,1882 683,1880 741,1880 799,1880 858,1880 916,1879 974,1879 1033,1878 1091,1878 1149,1878 1207,1877 1266,1876 1324,1875 1382,1874 1441,1872 1499,1870 1557,1870 1616,1872"/>
-                <TextEquiv>
-                    <Unicode>de transmettre c joint une traite</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
-                <Coords points="1659,1936 1673,1933 1684,1942 1690,1941 1698,1947 1704,1942 1714,1941 1712,1886 1704,1887 1700,1884 1692,1887 1689,1884 1687,1886 1681,1884 1678,1887 1658,1887"/>
-                <Baseline points="1668,1932 1693,1932 1718,1934"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
-                <Coords points="438,1991 671,2039 938,2030 1018,1978 1279,1997 1515,1978 1517,1945 1367,1916 848,1945 785,1903 497,1952 439,1920"/>
-                <Baseline points="446,1986 499,1982 553,1982 606,1981 660,1980 714,1978 767,1978 821,1976 874,1976 928,1974 982,1976 1035,1972 1089,1972 1142,1973 1196,1970 1250,1970 1303,1968 1357,1969 1410,1971 1464,1970 1518,1968"/>
-                <TextEquiv>
-                    <Unicode>de 10.000. franco, en recourant à</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
-                <Coords points="444,2094 649,2141 716,2088 937,2124 1115,2074 1698,2081 1689,2020 1390,2034 1298,1995 1062,2050 877,2011 683,2059 444,2022"/>
-                <Baseline points="452,2088 514,2086 577,2086 639,2086 702,2084 764,2081 827,2082 889,2078 952,2078 1014,2074 1077,2074 1139,2072 1202,2070 1264,2071 1327,2071 1389,2072 1452,2074 1514,2074 1577,2072 1639,2072 1702,2068"/>
-                <TextEquiv>
-                    <Unicode>l’obligeance éprouvée de Votre Excellence</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
-                <Coords points="439,2205 1611,2180 1614,2095 1451,2135 802,2108 439,2158"/>
-                <Baseline points="448,2192 506,2188 564,2188 623,2186 681,2184 740,2184 798,2181 856,2178 915,2175 973,2178 1032,2174 1090,2174 1148,2173 1207,2172 1265,2169 1324,2168 1382,2166 1440,2166 1499,2166 1557,2166 1616,2166"/>
-                <TextEquiv>
-                    <Unicode>avec la priere de vouloir bien la</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
-                <Coords points="446,2321 777,2280 951,2321 1298,2271 1371,2324 1556,2277 1557,2221 1084,2236 1043,2205 747,2258 693,2216 530,2250 447,2206"/>
-                <Baseline points="454,2288 509,2286 564,2286 620,2285 675,2285 731,2279 786,2278 841,2278 897,2278 952,2276 1008,2276 1063,2274 1118,2274 1174,2272 1229,2270 1285,2270 1340,2269 1395,2268 1451,2268 1506,2268 1562,2266"/>
-                <TextEquiv>
-                    <Unicode>faire tenir au Consulat Genéral</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
-                <Coords points="435,2394 771,2450 890,2385 1126,2413 1184,2377 1611,2377 1612,2319 1370,2324 1331,2285 1238,2325 1032,2296 913,2353 436,2342"/>
-                <Baseline points="444,2392 502,2390 561,2388 619,2388 678,2387 737,2386 795,2384 854,2382 912,2382 971,2379 1030,2377 1088,2374 1147,2372 1205,2372 1264,2370 1323,2370 1381,2368 1440,2368 1498,2366 1557,2366 1616,2368"/>
-                <TextEquiv>
-                    <Unicode>d’Allemagne à Sofia à titre de</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
-                <Coords points="450,2499 1074,2483 1176,2518 1317,2468 1644,2472 1645,2413 1240,2444 1174,2391 1013,2446 940,2410 452,2449"/>
-                <Baseline points="460,2490 519,2489 578,2487 638,2486 697,2483 757,2482 816,2482 875,2482 935,2482 994,2481 1054,2474 1113,2472 1172,2472 1232,2470 1291,2468 1351,2466 1410,2464 1469,2462 1529,2462 1588,2460 1648,2460"/>
-                <TextEquiv>
-                    <Unicode>remboursement des frais occasionnés</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
-                <Coords points="439,2608 987,2582 1118,2636 1204,2579 1403,2613 1662,2572 1654,2505 441,2544"/>
-                <Baseline points="448,2598 508,2594 569,2594 630,2589 691,2588 752,2587 813,2584 874,2582 935,2581 996,2578 1057,2576 1117,2575 1178,2574 1239,2574 1300,2574 1361,2572 1422,2570 1483,2568 1544,2566 1605,2564 1666,2558"/>
-                <TextEquiv>
-                    <Unicode>un dit Consulat. Général par l’entre.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
-                <Coords points="449,2701 527,2741 618,2697 1545,2679 1653,2668 1654,2624 1393,2651 1167,2610 1082,2657 857,2657 685,2585 450,2636"/>
-                <Baseline points="458,2700 517,2696 577,2698 637,2698 697,2694 757,2692 817,2688 877,2688 937,2686 997,2682 1057,2680 1116,2680 1176,2680 1236,2678 1296,2676 1356,2674 1416,2672 1476,2670 1536,2670 1596,2668 1656,2664"/>
-                <TextEquiv>
-                    <Unicode>tien des archives et les émoluments</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
-                <Coords points="133,3024 416,3031 507,2985 724,3037 860,2982 1162,3006 1314,2982 1315,2937 813,2945 663,2841 502,2926 402,2888 134,2965"/>
-                <Baseline points="142,3012 200,3012 259,3010 318,3007 377,3004 436,3005 494,3005 553,3001 612,3001 671,2999 730,2996 788,2995 847,2991 906,2991 965,2990 1024,2988 1082,2986 1141,2984 1200,2984 1259,2982 1318,2978"/>
-                <TextEquiv>
-                    <Unicode>J. E. Mr. le Baron de Marschale, s.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_31" custom="readingOrder {index:29;}">
-                <Coords points="948,3135 1090,3110 1160,3137 1293,3095 1379,3151 1440,3154 1448,3007 1412,3015 1375,2987 1306,3026 1237,2995 1165,3031 1131,3012 1068,3041 954,3027"/>
-                <Baseline points="958,3112 983,3110 1009,3109 1035,3108 1061,3106 1086,3104 1112,3102 1138,3101 1164,3100 1190,3099 1215,3098 1241,3096 1267,3094 1293,3092 1319,3089 1344,3087 1370,3087 1396,3089 1422,3091 1448,3094"/>
-                <TextEquiv>
-                    <Unicode>Thuyld 159</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_32" custom="readingOrder {index:30;}">
-                <Coords points="153,3153 205,3145 255,3178 317,3140 338,3148 402,3138 405,3018 355,3029 344,3018 286,3038 236,3020 197,3046 156,3045"/>
-                <Baseline points="162,3130 189,3127 216,3123 243,3121 270,3120 297,3121 324,3121 351,3120 378,3120 406,3120"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_33" custom="readingOrder {index:31;}">
-                <Coords points="962,3232 982,3245 1063,3214 1299,3224 1306,3112 1287,3101 1253,3124 1209,3134 1188,3120 1162,3137 1082,3113 1059,3129 966,3132"/>
-                <Baseline points="972,3200 997,3197 1023,3195 1049,3192 1074,3189 1100,3188 1126,3186 1151,3186 1177,3185 1203,3183 1228,3182 1254,3183 1280,3184 1306,3182"/>
-                <TextEquiv>
-                    <Unicode>Übersetzung: Im Anschluss an die Mitteilung von Herrn de Scharykow vom b. Iuiw dr. Nr. 1026, habe ich die Ehre, beiliegend einen Wechsel über 10.000. franco zu übersenden, indem ich mich auf das bewährte Entgegenkommen Eurer Exzellenz berufe, mit der Bitte, ihn im deutschen Generalkonsulat in Sofia als Erstattung der Kosten, die dem genannten Konsulat entstanden sind, aufbewahren zu lassen. Generalkonsulat durch die Führung der Archive und die Gebühren.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_34" custom="readingOrder {index:32;}">
-                <Coords points="202,3229 222,3240 241,3229 291,3240 305,3235 314,3243 341,3237 357,3248 382,3229 414,3229 416,3167 325,3174 264,3168 255,3178 225,3154 203,3159"/>
-                <Baseline points="210,3202 236,3198 262,3196 288,3200 314,3201 340,3199 366,3197 392,3197 418,3200"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="tr_1_tl_35" custom="readingOrder {index:33;}">
-                <Coords points="704,3218 719,3218 726,3224 743,3215 769,3231 805,3221 805,3121 793,3120 768,3134 755,3128 746,3131 724,3118 704,3121"/>
-                <Baseline points="712,3212 744,3212 777,3212 810,3212"/>
-                <TextEquiv>
-                    <Unicode></Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
-    </Page>
-</PcGts>
-
-
-Wenn ich recht berichtet bin, hat hern mein Amtsvorgänger im August vorigen Jahres bereits mündlich von einer durch meinen hiesigen russischen Kollegen ihm gegeeüber angeregtin
-Zu den Akte Ordensangelegenheit gesprochen. Es handelt sich
-eme 3 Angestellte der hiesigen russishen Agen
-kin, welche während der Jahre 1886 -96 unserem
-damals mit der Vertretung der russischen
-Interessen betrauten Geeeralcoesulate
-Dienste geleistet haben und hierauf den
-Wunsch gründen, an Allerhöchster Stelle
-für Ordeesverleihungen in Vorschlag
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">R 901/16612</title><author>Auswärtiges Amt</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">Der Minister der öffentlichen Arbeiten an den Herrn Minister der auswärtigen Angelegenheiten, 10. Novermber 1906</title><author></author><respStmt><resp></resp><name></name></respStmt><idno type="Transkribus"></idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5289" lry="7115" xml:id="facs_40">
+         <graphic url="0040_040_18v.jpeg" width="5289px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SFODIVEKTUDWJLXSUOAQQUSM&amp;fileType=view" width="5289px" height="7115px"/>
+         <zone points="4608,276 4976,276 4976,547 4608,547" rendition="TextRegion" xml:id="facs_40_r" subtype="page-number">
+            <zone points="4625,257 4834,257 4834,515 4625,515" rendition="Line" xml:id="facs_40_l_1474"/>
+         </zone>
+         <zone points="212,1178 5106,1178 5106,2861 212,2861" rendition="TextRegion" xml:id="facs_40_r_1489" subtype="paragraph">
+            <zone points="374,1017 3155,1017 3155,1397 374,1397" rendition="Line" xml:id="facs_40_tr_1_tl_1"/>
+            <zone points="349,1323 4723,1323 4723,1715 349,1715" rendition="Line" xml:id="facs_40_tr_1_tl_2"/>
+            <zone points="92,1654 5017,1654 5017,2034 92,2034" rendition="Line" xml:id="facs_40_tr_1_tl_3"/>
+            <zone points="123,1942 4956,1942 4956,2297 123,2297" rendition="Line" xml:id="facs_40_tr_1_tl_4"/>
+            <zone points="147,2224 5073,2224 5073,2567 147,2567" rendition="Line" xml:id="facs_40_tr_1_tl_5"/>
+            <zone points="172,2518 1538,2518 1538,2947 172,2947" rendition="Line" xml:id="facs_40_tr_1_tl_6"/>
+         </zone>
+         <zone points="254,2924 5171,2924 5171,4582 254,4582" rendition="TextRegion" xml:id="facs_40_r_1498" subtype="paragraph">
+            <zone points="962,2794 4993,2794 4993,3222 962,3222" rendition="Line" xml:id="facs_40_tr_1_tl_7"/>
+            <zone points="227,3112 4870,3112 4870,3498 227,3498" rendition="Line" xml:id="facs_40_tr_1_tl_8"/>
+            <zone points="239,3449 5011,3449 5011,3817 239,3817" rendition="Line" xml:id="facs_40_tr_1_tl_9"/>
+            <zone points="221,3762 5115,3762 5115,4123 221,4123" rendition="Line" xml:id="facs_40_tr_1_tl_10"/>
+            <zone points="202,4043 5042,4043 5042,4399 202,4399" rendition="Line" xml:id="facs_40_tr_1_tl_11"/>
+            <zone points="202,4374 1758,4374 1758,4625 202,4625" rendition="Line" xml:id="facs_40_tr_1_tl_12"/>
+         </zone>
+         <zone points="238,4508 5106,4508 5106,5777 238,5777" rendition="TextRegion" xml:id="facs_40_r_1509" subtype="paragraph">
+            <zone points="1023,4625 2898,4625 2898,4962 1023,4962" rendition="Line" xml:id="facs_40_l_1533"/>
+            <zone points="2432,4466 3866,4466 3866,4772 2432,4772" rendition="Line" xml:id="facs_40_tr_1_tl_13"/>
+            <zone points="2879,4607 4975,4607 4975,4993 2879,4993" rendition="Line" xml:id="facs_40_l_1534"/>
+            <zone points="227,4864 4325,4864 4325,5287 227,5287" rendition="Line" xml:id="facs_40_tr_1_tl_15"/>
+            <zone points="1090,5213 4926,5213 4926,5581 1090,5581" rendition="Line" xml:id="facs_40_tr_1_tl_16"/>
+            <zone points="2604,5477 2812,5477 2812,5704 2604,5704" rendition="Line" xml:id="facs_40_tr_1_tl_17"/>
+            <zone points="251,5489 3988,5489 3988,5875 251,5875" rendition="Line" xml:id="facs_40_tr_1_tl_18"/>
+         </zone>
+         <zone points="245,5784 4894,5784 4894,6818 245,6818" rendition="TextRegion" xml:id="facs_40_r_1522" subtype="paragraph">
+            <zone points="1146,5771 4307,5771 4307,6175 1146,6175" rendition="Line" xml:id="facs_40_tr_1_tl_20"/>
+            <zone points="4064,5944 4675,5944 4675,5978 4064,5978" rendition="Line" xml:id="facs_40_l"/>
+            <zone points="1170,6096 4589,6096 4589,6469 1170,6469" rendition="Line" xml:id="facs_40_tr_1_tl_21"/>
+            <zone points="245,6463 830,6463 830,6770 245,6770" rendition="Line" xml:id="facs_40_l_1576"/>
+            <zone points="441,6139 1152,6139 1152,6531 441,6531" rendition="Line" xml:id="facs_40_tr_1_tl_22"/>
+            <zone points="830,6414 4748,6414 4748,6825 830,6825" rendition="Line" xml:id="facs_40_l_1577"/>
+         </zone>
+         <zone points="136,1094 5183,1094 5183,6833 136,6833" rendition="TextRegion" xml:id="facs_40_tr_1">
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_40" n="40" xml:id="img_0040"/><fw type="page-number" facs="#facs_40_r" place="top">
+               <l facs="#facs_40_l_1474" n="N001"></l></fw>
+            <p facs="#facs_40_r_1489"><l facs="#facs_40_tr_1_tl_1" n="N001"><speech>10. November 1906</speech></l></p>
+             <p facs="#facs_40_r_1489"><l facs="#facs_40_tr_1_tl_1" n="N001"><speech>Nach den im Jahre 1895 auf Grund meines Vorschlages vom</speech></l>
+<lb/>10. Januar 1895 - I.13247 - getroffenen Vereinbarungen<lb/>
+über die geschäftliche Behandlung der Gesuche von Auslän-<lb/> 
+dern um Erlaubniserteilung zur Besichtigung von Eisenbahn- <lb/>
+anlagen usw. sollte eine Mitwirkung der Ressorts Eurer <lb/>
+Exzellenz und des Herrn Ministers der auswärtigen Angele- <lb/>
+genheiten hierbei in solchen Fällen stattfinden, in denen <lb/>
+es sich um Angehörige fremder Staaten handelte, denen gegen- <lb/> 
+über aus politischen Gründen besondere Vorsicht geboten <lb/>
+war, oder in denen nach meinem Ermessen dies sonst ange- <lb/>
+zeigt erschien. Dagegen sollten über Gesuche von Angehöri- <lb/>
+gen des Deutschen Reichs oder der sogenannten begünstig-<lb/>
+ten Staaten ( Österreich-Ungarn, Schweiz, Schweden, Norwegen, <lb/>
+ Belgien,Niederlande,England, Jtalien und Vereinigte Staa- <lb/>
+ ten von Nordamerika ) die Königlichen Eisenbahndirektio-<lb/>
+ nen selbständig entscheiden.Ebenso bestanden bezüglich<lb/><lb/>
+ etc.</p>
+               </div>
+      </body>
+   </text>
+</TEI>

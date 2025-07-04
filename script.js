@@ -4,6 +4,7 @@ let extension = ".xml";
 let folio_xml = tei_xml.concat(extension);
 let addArray = [];
 let delArray = [];
+let folioName ='sample_page_number';
 
 
 // function to transform the text encoded in TEI with the xsl stylesheet "conan_doyle_text.xsl", this will apply the templates and output the text in the html <div id="text">
@@ -135,6 +136,8 @@ function setUpAddDel() {
       // revertStyle(addArray);
       simpleTextStyle(addArray);
       changeStyle(delArray);
+      } else if (event.target.value == 'nextpage') {
+      alert('Jopla!');
     } else {
       changeStyle(addArray);
       // revertStyle(delArray);
@@ -143,3 +146,23 @@ function setUpAddDel() {
   }
 // write another function that will toggle the display of the deletions by clicking on a button
 // EXTRA: write a function that will display the text as a reading text by clicking on a button or another dropdown list, meaning that all the deletions are removed and that the additions are shown inline (not in superscript)
+
+ 
+ let currentImage = 1;
+ const maxImages = 3;
+
+
+  function nextImage() {
+
+ 
+ 
+    currentImage = (currentImage % maxImages) + 1;
+    document.getElementById("disp_document").src = `sample_page_${currentImage}.jpg`;
+
+  
+  folio_xml = 'sample_page_' + currentImage + '.xml';
+ documentLoader();
+  statsLoader();
+
+  
+  }

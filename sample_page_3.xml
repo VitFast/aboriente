@@ -60,30 +60,10 @@
    <text>
       <body><div><pb facs="#facs_40" n="40" xml:id="img_0040"/><fw type="page-number" facs="#facs_40_r" place="top">
                <l facs="#facs_40_l_1474" n="N001"></l></fw>
-            <p facs="#facs_40_r_1489">
-               <l facs="#facs_40_tr_1_tl_1" n="N001"><speech>Auswärtiges Amt</speech></l></p>
-               <p>
-               <l facs="#facs_40_tr_1_tl_2" n="N002"><speech>Abteilung</speech></l>
-               <l facs="#facs_40_tr_1_tl_3" n="N003">II<sup>E</sup></l>  </p>
-               <p>
-               <l facs="#facs_40_tr_1_tl_4" n="N004">Akten</l></p><p>
-               <l facs="#facs_40_tr_1_tl_5" n="N005">betreffend:</l></p><p>
-               <l facs="#facs_40_tr_1_tl_6" n="N006">Grundsätze über die geschäftliche Behandlung</l>
-               <l facs="#facs_40_tr_1_tl_7" n="N001"><speech continued="true">von Gesuchen um Gestattung der Besichtigung deutscher Verkehrsanstalten (Eisenbahn, Post und Telegraphenanlagen) durch fremde Staatsangehörige.</speech></l></p>
-               
-               <l facs="#facs_40_l_1533" n="N001"><p>Band_______</p>
-               vom <del><hi style="text-decoration: line-through;">Jahre</hi></del> <add place="supralinear" facs="#facs_40_tr_1_tl_13" n="N002">Januar
-               
-               </add><span facs="#facs_40_l_1534" n="N003">  1895</span></l>
-
-               
-               <l facs="#facs_40_tr_1_tl_4" n="N004"><p>bis Mai 1914</p> </l>
-
-                           
+            <p facs="#facs_40_r_1489"><l facs="#facs_40_tr_1_tl_1" n="N001"><speech>Zentralstellen...</speech></l></p>
+             <p facs="#facs_40_r_1489"><l facs="#facs_40_tr_1_tl_1" n="N001"><speech></speech></l>
+<lb/>Etc.</p>
                </div>
-
-               <div>Verkehrswesen<p>
-               Nr. 5 adh:II</p></div>
       </body>
    </text>
 </TEI>
